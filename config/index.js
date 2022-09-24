@@ -62,9 +62,9 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "ZYY",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oGPQE5-VlhSjEjBdE2SLEi-AjSKg",
+      id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "by5oOp2EHr54eL_wSRZ1j1LQkvgnVQ740dhVMdZCP-Q",
+      useTemplateId: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -95,8 +95,8 @@ export const USER_CONFIG = {
     },
     {
       name: "ZYY",
-      id: "",
-      useTemplateId: "SIJ1x9QPbZqFifYPSiKsuUS2MlC4aN6Qgpu_h8zjTZ0",
+      id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
+      useTemplateId: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
       province: "四川",
       city: "宜宾",
       horoscopeDate: '1-21',
@@ -137,7 +137,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "by5oOp2EHr54eL_wSRZ1j1LQkvgnVQ740dhVMdZCP-Q",
+  CALLBACK_TEMPLATE_ID: "",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -145,7 +145,7 @@ export const USER_CONFIG = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
+      id: "",
     },
     // 你可以不断按格式往下增加
     // ...
