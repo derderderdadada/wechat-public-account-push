@@ -102,7 +102,13 @@ export const USER_CONFIG = {
       horoscopeDate: '1-21',
       horoscopeDateType: '今日',
       openUrl: "https://s.weibo.com/top/summary",
-      festivals: []
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+       // {"type": "生日", "name": "ZYY", "year": "1997", "date": "01-21"},
+        {"type": "节日", "name": "英语四级口试", "year": "2022", "date": "11-19"},
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {"type": "节日", "name": "英语四级笔试", "year": "2022", "date": "12-10"},
+      ]
     },
     {
       name: "老婆2",
