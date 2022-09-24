@@ -81,7 +81,7 @@ export const USER_CONFIG = {
         {"type": "生日", "name": "ZYY", "year": "1997", "date": "01-21"},
         {"type": "节日", "name": "英语四级口试", "year": "2022", "date": "11-19"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-      
+        {"type": "节日", "name": "英语四级笔试", "year": "2022", "date": "12-10"},
         {"type": "节日", "name": "英语四级笔试", "year": "2022", "date": "12-10"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
