@@ -217,7 +217,7 @@ export const USER_CONFIG = {
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
-    {"keyword": "Birth_day", date: "1996-01-21"},
+    {"keyword": "Birth_day", date: "2023-01-21"},
     // 你可以不断按格式往下增加
     // ...
   ],
