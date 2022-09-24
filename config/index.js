@@ -89,7 +89,7 @@ export const USER_CONFIG = {
         //{"keyword": "love_day", date: "2022-09-08"},
         // 结婚纪念日
         //{"keyword": "marry_day", date: "2022-09-09"},
-         生日
+           生日
         //{"keyword": "Birth_day", date: "1997-01-21"},
       ]
     },
