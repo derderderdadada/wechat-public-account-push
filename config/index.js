@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "by5oOp2EHr54eL_wSRZ1j1LQkvgnVQ740dhVMdZCP-Q",
+      useTemplateId: "UrLVY5_0QWq45SJvF5UO55i-GqprqXXdlTeEEVZMDCc",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -96,7 +96,7 @@ export const USER_CONFIG = {
     {
       name: "ZYY",
       id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
-      useTemplateId: "by5oOp2EHr54eL_wSRZ1j1LQkvgnVQ740dhVMdZCP-Q",
+      useTemplateId: "UrLVY5_0QWq45SJvF5UO55i-GqprqXXdlTeEEVZMDCc",
       province: "四川",
       city: "宜宾",
       horoscopeDate: '1-21',
@@ -230,7 +230,7 @@ export const USER_CONFIG = {
    * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    {"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
+    //{"keyword": "encourage_oneself", contents: "你主要的问题在于读书太少而想得太多"},
     // 这样配置的话，就会每次随机选一句话发送
     {"keyword": "lover_prattle", contents: [
         "因为太喜欢你，所以看谁都像是情敌。",
