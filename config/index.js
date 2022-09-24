@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Pl3N-Q0npzGE4DVgJPOF3xx9xLFfV5MFtDowdHzu_t4",
+      useTemplateId: "gnFAXJY06GwU9rYzxK_gXfDEEqpK9WPNEYxqL8Z30AA",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -78,7 +78,7 @@ export const USER_CONFIG = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "生日", "name": "ZYY", "year": "1997", "date": "01-21"},
+       // {"type": "生日", "name": "ZYY", "year": "1997", "date": "01-21"},
         {"type": "节日", "name": "英语四级口试", "year": "2022", "date": "11-19"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "节日", "name": "英语四级笔试", "year": "2022", "date": "12-10"},
@@ -211,7 +211,7 @@ export const USER_CONFIG = {
     // 结婚纪念日
     {"keyword": "marry_day", date: "2022-09-09"},
     // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+    {"keyword": "Birth_day", date: "1996-01-21"},
     // 你可以不断按格式往下增加
     // ...
   ],
