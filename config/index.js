@@ -94,7 +94,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "ZYY",
+      name: "ZY",
       id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
       useTemplateId: "fdZ37f1XlPhum_Wl12tUnUpNtbKZCUl5ydwTWHe-SIw",
       province: "四川",
@@ -111,7 +111,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆2",
+      name: "2",
       id: "",
       useTemplateId: "",
       province: "",
@@ -123,7 +123,7 @@ export const USER_CONFIG = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
+      name: "3",
       id: "",
       useTemplateId: "",
       province: "",
