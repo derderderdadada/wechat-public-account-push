@@ -95,7 +95,7 @@ export const USER_CONFIG = {
     },
     {
       name: "ZY",
-      id: "oGPQE5yMJi8pt-uvd84AihBlD40Y",
+      id: "",
       useTemplateId: "fdZ37f1XlPhum_Wl12tUnUpNtbKZCUl5ydwTWHe-SIw",
       province: "四川",
       city: "宜宾",
